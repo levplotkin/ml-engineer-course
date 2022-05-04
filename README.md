@@ -1,1 +1,1 @@
-# ml-engineer-course
+# ML workshop
